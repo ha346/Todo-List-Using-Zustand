@@ -43,10 +43,3 @@ A simple todo list
    ```js
    npm run dev
    ```
-
-<!-- CONTACT -->
-## Contact
-
-Regina - reina5425@gmail.com
-
-Project Link: [https://github.com/Regina5425/todolist-react-ts-zustand](https://github.com/Regina5425/todolist-react-ts-zustand)
