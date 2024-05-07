@@ -6,7 +6,7 @@
   <p align="center">
     Todolist created with react, typescript, zustand and vite.js
 		<br/>
-		<a href="https://todolist-sooty-ten.vercel.app/">View Demo</a>
+		<a href="https://todo-list-using-zustand-tau.vercel.app/">View Demo</a>
   </p>
 </div>
 
