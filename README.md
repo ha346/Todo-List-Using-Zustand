@@ -33,7 +33,7 @@ A simple todo list
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Regina5425/todolist-react-ts-zustand.git
+   git clone https://github.com/ha346/Todo-List-Using-Zustand.git
    ```
 2. Install NPM packages
    ```sh
